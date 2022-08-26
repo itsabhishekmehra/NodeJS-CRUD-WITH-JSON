@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "name": "Diva",
+        "age": 23,
+        "gender": "Female",
+        "department": "History",
+        "car": "Honda"
+    },
+    {
+        "id": 2,
+        "name": "Sara",
+        "age": 23,
+        "gender": "Female",
+        "department": "Bio- Technology",
+        "car": "Honda"
+    },
+    {
+        "id": 3,
+        "name": "Raavi",
+        "age": 23,
+        "gender": "Female",
+        "department": "History",
+        "car": "Honda"
+    },
+    {
+        "id": 4,
+        "name": "Sabha",
+        "age": 20,
+        "gender": "Female",
+        "department": "History",
+        "car": "Honda"
+    }
+]
